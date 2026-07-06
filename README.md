@@ -37,8 +37,11 @@ Python , Pandas , NumPy , Scikit-learn , Matplotlib , Seaborn and Gradio
 
 ## Interface
 
-The final model is wrapped in a Gradio app where you can select an airline , 
-route , time and weather condition to get a live delay prediction.
+![Gradio Interface](gradio_interface1.png)
+![Gradio Interface](gradio_interface2.png)
+
+The final model is wrapped in a Gradio app where users can select an 
+airline , route , time and weather condition to get a live delay prediction.
 
 ## Future Improvements
 
